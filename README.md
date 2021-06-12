@@ -1,4 +1,4 @@
-## Hi there, I'm Sindhu, an INFP 👋
+## Hi, I'm Sindhu, an INFP 👋
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sindhu15&theme=dark)](https://git.io/streak-stats)
