@@ -1,5 +1,9 @@
-## Hi, I'm Sindhu, an INFP 👋.       ![](https://komarev.com/ghpvc/?username=Sindhu15&color=yellowgreen)
+## Hi, I'm Sindhu 👋,&nbsp; an INFP   &nbsp;&nbsp;&nbsp;&nbsp;    ![](https://komarev.com/ghpvc/?username=Sindhu15&color=yellowgreen)
 
+### Addicted to coffee and MBTI 
+
+<br />
+<br />
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sindhu15&theme=dark)](https://git.io/streak-stats)
@@ -9,6 +13,7 @@
 
 
 ### Languages and Tools:
+<br />
 
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -24,6 +29,8 @@
 <br />
 
 ### Connect with me:
+<br />
+
 <a href="https://www.linkedin.com/in/sindhu-a15/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 
 
