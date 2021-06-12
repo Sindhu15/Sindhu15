@@ -1,4 +1,5 @@
-## Hi, I'm Sindhu, an INFP 👋
+## Hi, I'm Sindhu, an INFP 👋.       ![](https://komarev.com/ghpvc/?username=Sindhu15&color=yellowgreen)
+
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sindhu15&theme=dark)](https://git.io/streak-stats)
