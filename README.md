@@ -1,5 +1,4 @@
-## Hi, I'm Sindhu 👋,&nbsp; an INFP   &nbsp;&nbsp;&nbsp;&nbsp;    ![](https://komarev.com/ghpvc/?username=Sindhu15&color=yellowgreen)
-
+## Hi, I'm Sindhu 👋,&nbsp; an INFP   &nbsp;&nbsp;&nbsp;&nbsp;    ![](https://hit.yhype.me/github/profile?user_id=12071423)
 ### Addicted to coffee and MBTI 
 
 <br />
