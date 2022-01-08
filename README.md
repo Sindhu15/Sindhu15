@@ -1,5 +1,4 @@
-## Sindhu,&nbsp; an INFP   &nbsp;&nbsp;&nbsp;&nbsp;    ![](https://hit.yhype.me/github/profile?user_id=12071423)
-### Addicted to coffee and MBTI 
+## Sindhu   &nbsp;&nbsp;&nbsp;&nbsp;    ![](https://hit.yhype.me/github/profile?user_id=12071423)
 
 <br />
 <br />
