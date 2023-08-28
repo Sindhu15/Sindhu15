@@ -4,10 +4,6 @@
 <br />
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sindhu15&theme=dark)](https://git.io/streak-stats)
-
-
-![Sindhu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sindhu15&show_icons=true&theme=radical&count_private=true)
 
 
 ### Languages and Tools:
